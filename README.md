@@ -1,2 +1,2 @@
 # Tableau
-Tableau for data analytics and visualization
+Tableau for data visualization, dashboards, reporting.
