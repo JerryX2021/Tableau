@@ -2,7 +2,7 @@
 Tableau to connect data source :open_file_folder:, analyze metadata :clipboard:, build visualisation :bar_chart: and dashboard reporting :chart_with_upwards_trend:.
 
 In this project, I use data ("Global Library Data") downloaded from Tableau_eLearning platform to find insights of libraries around the world. I use both Tableau Desktop to analyze the data and build dashboard. This is also performed using Tableau Online to aid easier information sharing and discussion.\
-The :page_with_curl:Tableau workbook "Global Library Data Dashboard.twbx" is attached. The "raw_data" folder contains the Microsoft Excel worksheet.
+The :page_with_curl:Tableau workbook "Global Library Data Dashboard.twbx" is attached. The :open_file_folder:"raw_data" folder contains the Microsoft Excel worksheet.
 
 The end user can open the ".twbx" file using Tableau Desktop or Tableau Online to interactively view the dashboard, and find information of interest.\
 For example, we can select the "Europe" bar from the top chart to only view European library data, where the bottom chart also reflects to this selection. The two charts are filtered by the top chart to enable interactive dashboard.\
