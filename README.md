@@ -35,7 +35,9 @@ Sort the botom chart by "Total Volumes". Germany still tops the rank and must ha
 
 ![image](https://user-images.githubusercontent.com/76986018/147402096-771e14a8-d63f-4348-838a-7e3b55f17ad9.png)
 
-Knowledge is priceless. Running a library has a price tag. The library expenditure may reflect the economic status of countries, it does not necessarily reflect the usage of librairies and it is not a reflection of knowledge gained in population.
+# Knowledge is priceless.Running a library has a price tag.
 
+The library expenditure may reflect the economic status of countries, it does not necessarily reflect the usage of librairies and it is not a reflection of knowledge gained in population.
 
+This project shows how we can use Tableau Dashboard to interactively analyze and report data.
 
