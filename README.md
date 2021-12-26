@@ -44,7 +44,7 @@ We de-select the previously used filter so all :earth_americas:country data are 
 
 ![image](https://user-images.githubusercontent.com/76986018/147402096-771e14a8-d63f-4348-838a-7e3b55f17ad9.png)
 
-:books::books::books:Knowledge is priceless.Running a :post_office:library has a :moneybag:price tag.
+:books::books::books:Knowledge is priceless. Running a :post_office:library has a :moneybag:price tag.
 
 The library :moneybag:expenditure may reflect the :chart_with_upwards_trend:economic status of countries, it does not necessarily reflect the :octocat:usage of librairies and it is not a reflection of :books:knowledge gained in population.:star::star::star:
 
